@@ -1,5 +1,5 @@
-# final_workspace
-파이널 프로젝트 모아보기 저장소입니다.
+# final_workspace 👏
+파이널 프로젝트 모아보기 저장소입니다. 
 
 ## Ready? Action!
 | [Repo](https://github.com/ssg-java3-240304/Ready-Auction) | [Sprint Board]() | [Milestones](https://github.com/ssg-java3-240304/Ready-Auction/milestones?direction=asc&sort=due_date&state=open) | [Bug Reports](https://github.com/ssg-java3-240304/Ready-Auction/issues?q=is%3Aissue+label%3Abug+is%3Aopen) |  
