@@ -1,0 +1,12 @@
+[submodule "Ready-Auction"]
+	path = Ready-Auction
+	url = https://github.com/ssg-java3-240304/Ready-Auction.git
+[submodule "myseatdang"]
+	path = myseatdang
+	url = https://github.com/ssg-java3-240304/myseatdang
+[submodule "PetTopia"]
+	path = PetTopia
+	url = https://github.com/ssg-java3-240304/PetTopia.git
+[submodule "up-and-down"]
+	path = up-and-down
+	url = https://github.com/ssg-java3-240304/up-and-down
