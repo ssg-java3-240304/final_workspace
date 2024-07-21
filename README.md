@@ -11,7 +11,7 @@
 |-----------------------------------------------------------|------------------|----------------|-----------------|
 
 ## dodo..…dog
-| [Repo](https://github.com/ssg-java3-240304/PetTopia) | [Sprint Board]() | [Milestones](https://github.com/ssg-java3-240304/PetTopia/milestones?direction=asc&sort=due_date&state=open) | [Bug Reports](https://github.com/ssg-java3-240304/PetTopia/issues?q=is%3Aissue+label%3Abug+is%3Aopen) |  
+| [Repo](https://github.com/ssg-java3-240304/PetTopia) | [Sprint Board](https://github.com/orgs/ssg-java3-240304/projects/32) | [Milestones](https://github.com/ssg-java3-240304/PetTopia/milestones?direction=asc&sort=due_date&state=open) | [Bug Reports](https://github.com/ssg-java3-240304/PetTopia/issues?q=is%3Aissue+label%3Abug+is%3Aopen) |  
 |-----------------------------------------------------------|------------------|----------------|-----------------|
 
 ## Up
