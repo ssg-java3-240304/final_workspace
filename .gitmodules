@@ -10,3 +10,6 @@
 [submodule "up-and-down"]
 	path = up-and-down
 	url = https://github.com/ssg-java3-240304/up-and-down
+[submodule "up-data-server"]
+	path = up-data-server
+	url = https://github.com/dhgudehd98/up-data-server
